@@ -128,3 +128,5 @@ Este proyecto es de código abierto y se puede usar libremente para propósitos 
 ## Autor
 
 Desarrollado para ESP32-C3 con ESP-IDF 5.5.1
+
+Basado en la publicación del log de  Kevin : https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/. Muchas gracias
